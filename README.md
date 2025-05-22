@@ -38,6 +38,7 @@ A data-driven analysis of **Zudio's** marketing and product performance using re
 
 ## 📽️ Preview
 ![Dashboard Preview](PP%20Dashboard.PNG)
+![SQL Table Preview](Zudio_DB_Schema.png)
 
 ▶️ **[Watch Dashboard Performance](Dashboard_performance.webm)**
 🔗 **[Explore SQL Queries used](Zudio_SQL_Analysis.sql)**
